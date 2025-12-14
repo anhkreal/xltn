@@ -17,7 +17,7 @@ ck/
 └─ signals/
    ├─ NguyenAmHuanLuyen-16k/   # TRAIN_DIR — dữ liệu huấn luyện
    └─ NguyenAmKiemThu-16k/     # TEST_DIR — dữ liệu kiểm thử
-      └─ 23MTL/                # Thư mục mẫu cho demo (chứa các file wav)
+      └─ 25MLM/                # Thư mục mẫu cho demo (chứa các file wav)
 ```
 
 ## Yêu cầu môi trường
